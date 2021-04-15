@@ -1,4 +1,4 @@
-# OpenGL 3D Graphics Project
+# OpenGL 3D Computer Graphics Project
 
 컴퓨터 그래픽스 강의 중 OpenGL Library와 Blender 프로그램을 이용한 3차원 제품 카탈로그 입니다.
 Cylinder Lock의 구조와 형태를 이해하고, Blender로 부품을 모델링 하였습니다.
